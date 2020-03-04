@@ -142,5 +142,5 @@ The files are read and merged and then reshaped such that columns are sample IDs
 Contact
 ---------
 
-Please contact Menachem Sklarz at: [sklarz@bgu.ac.il](mailto:sklarz@bgu.ac.il)
+Please contact Menachem Sklarz at: [menachem.sklarz@gmail.com](mailto:menachem.sklarz@gmail.com)
 
